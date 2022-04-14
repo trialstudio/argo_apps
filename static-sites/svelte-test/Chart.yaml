@@ -25,5 +25,5 @@ appVersion: "1.16.0"
 
 dependencies:
   - name: static-site
-    version: 0.3.0
+    version: 0.3.1
     repository: https://trialstudio.github.io/helm_charts/
