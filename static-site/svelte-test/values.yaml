@@ -1,0 +1,6 @@
+static-site:
+  app:
+    name: "svelte-test"
+    version: "0.5.0"
+    domain: "trial.studio"
+    registry: "790387652718.dkr.ecr.us-east-2.amazonaws.com"
